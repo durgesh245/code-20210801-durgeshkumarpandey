@@ -1,0 +1,23 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "Read bmi vitals values and provide the outcome",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durgesh245/code-20210801-durgeshkumarpandey.git"
+  },
+  "author": "Durgesh Kumar Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durgesh245/code-20210801-durgeshkumarpandey/issues"
+  },
+  "homepage": "https://github.com/durgesh245/code-20210801-durgeshkumarpandey#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
